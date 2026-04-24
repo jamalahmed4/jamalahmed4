@@ -14,12 +14,11 @@
 </div>
 
 
-<h1 align="center">...</h1>
+<h1 align="center"></h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jamalahmed4/jamalahmed4/main/header.png" width="100%">
 </p>
----
 
 ## 🎯 About Me
 
