@@ -33,6 +33,11 @@ Computer Science graduate with hands-on experience in **Artificial Intelligence,
 * 🔍 Built scalable systems with **semantic search + vector databases**
 * 📫 Contact: **[jamalahmedjk420@gmail.com](mailto:jamalahmedjk420@gmail.com)**
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/jamalahmed4/jamalahmed4/main/Resume_JamalAhmed.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader"/>
+  </a>
+</p>
 ---
 
 ## 💼 Experience
